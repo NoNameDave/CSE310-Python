@@ -34,14 +34,13 @@ All requests and responses are sent as JSON messages over a TCP connection.
 
 ## Time Log Summary
 
-Approximate total time spent on this module: **22.5 hours**
+Approximate total time spent on this module: **19 hours**
 
 - Planning & requirements review: 3.5 hours  
 - Server networking implementation: 4.0 hours  
 - Story design & logic: 3.5 hours  
 - Client implementation & GUI development: 4.5 hours  
-- Integration, debugging & polish: 3.5 hours  
-- Documentation & video recording: 4.0 hours  
+- Integration, debugging & polish: 3.5 hours   
 
 ---
 
