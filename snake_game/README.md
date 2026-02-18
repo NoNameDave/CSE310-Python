@@ -24,9 +24,9 @@ Difficulty increases as the player scores points.
 
 ### Basic Requirements
 
-- ✔ Game displays graphics  
-- ✔ Game takes keyboard input  
-- ✔ Game contains moveable objects  
+- Game displays graphics  
+- Game takes keyboard input  
+- Game contains moveable objects  
 
 ### Additional Requirement
 
