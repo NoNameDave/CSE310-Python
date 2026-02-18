@@ -3,7 +3,7 @@
 ## Module Information
 
 **Course:** CSE 310 – Applied Programming  
-**Module:** Module 1 – Networking  
+**Module:** Module 3 – Networking  
 **Student Name:** Christiaan Wolmarans  
 
 ---
